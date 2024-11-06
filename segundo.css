@@ -105,5 +105,5 @@ nav .social a i:hover{
     transition: 0.3s;
 }
 .hero .text .btn:hover{
-    background-color: transparent;
+    background-color: solid;
 }
