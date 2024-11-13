@@ -1,0 +1,32 @@
+
+body  {
+    background-image: url(black-car-4k-z3o17r0xzwfw5zj1.jpg);
+    background-repeat: no-repeat no-repeat;
+    background-attachment: fixed
+}
+  
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+  h3{
+    color: rgb(255, 255, 255)
+  }
+
+   p{
+    size: 4px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+   }
+  
+.bigger {
+    font-size: 20px;
+    text-align:center
+    color white
+  }
+
+.container{
+    color:white
+
+}
