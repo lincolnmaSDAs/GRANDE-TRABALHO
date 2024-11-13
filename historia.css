@@ -1,0 +1,26 @@
+
+body  {
+    background-image: url(photo-1550242499-b5171f56de56.jpg);
+}
+  
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+  h3{
+    color: rgb(255, 255, 255)
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+   p{
+    size: 4px;
+    color: rgb(255, 255, 255);
+   }
+  
+   video {
+    margin: 100 auto;
+    width: 400px;
+}
+  
+.bigger {
+    font-size: larger;
+  }
