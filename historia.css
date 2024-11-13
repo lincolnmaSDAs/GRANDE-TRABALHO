@@ -1,28 +1,26 @@
 
 body  {
     background-image: url(photo-1550242499-b5171f56de56.jpg);
+    background-repeat: no-repeat no-repeat;
+    background-attachment: fixed
 }
   
 h1{
     color: rgb(255, 255, 255);
-    font-family: initial;
+    text-align: center;
 }
+
   h3{
     color: rgb(255, 255, 255)
-    font-family: initial;
 
-    
   }
+
    p{
     size: 4px;
     color: rgb(255, 255, 255);
    }
   
-   video {
-    margin: 100 auto;
-    width: 400px;
-}
-  
 .bigger {
-    font-size: larger;
+    font-size: 18px;
+    text-align:center
   }
