@@ -1,6 +1,6 @@
 
 body  {
-    background-image: url(black-car-4k-z3o17r0xzwfw5zj1.jpg);
+    background-image: url(classic-1969-camaro-ss-car-njz703ot6dbpsg22.jpg);
     background-repeat: no-repeat no-repeat;
     background-attachment: fixed
 }
@@ -12,21 +12,16 @@ h1{
 
   h3{
     color: rgb(255, 255, 255)
+
   }
 
    p{
-    size: 4px;
+    size: 20px;
     color: rgb(255, 255, 255);
-    text-align: center;
    }
   
 .bigger {
+    color: white;
     font-size: 20px;
     text-align:center
-    color white
   }
-
-.container{
-    color:white
-
-}
