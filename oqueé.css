@@ -1,0 +1,25 @@
+body  {
+    background-image: url(9d443d8672580a8da44c29decb9a15e6.jpg);
+    background-repeat: no-repeat no-repeat;
+    background-attachment: fixed
+}
+  
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+  h3{
+    color: rgb(255, 255, 255)
+
+  }
+
+   p{
+    size: 4px;
+    color: rgb(255, 255, 255);
+   }
+  
+.bigger {
+    font-size: 18px;
+    text-align:center
+  }
